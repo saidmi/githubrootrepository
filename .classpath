@@ -8,10 +8,30 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="D:/soft/jar/repository/javax/jms/jms/1.1/jms-1.1.jar"/>
-	<classpathentry kind="lib" path="D:/soft/jar/repository/org/glassfish/javax.management.j2ee/10.0-b28/javax.management.j2ee-10.0-b28.jar"/>
-	<classpathentry kind="lib" path="D:/soft/jar/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar"/>
-	<classpathentry kind="lib" path="D:/soft/jar/repository/org/apache/activemq/activemq-all/5.15.3/activemq-all-5.15.3.jar" sourcepath="D:/soft/jar/repository/org/apache/activemq/activemq-all/5.15.3/activemq-all-5.15.3-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/soft/jar/repository/javax/jms/jms/1.1/jms-1.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/soft/jar/repository/org/glassfish/javax.management.j2ee/10.0-b28/javax.management.j2ee-10.0-b28.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/soft/jar/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/soft/jar/repository/org/apache/activemq/activemq-all/5.15.3/activemq-all-5.15.3.jar" sourcepath="D:/soft/jar/repository/org/apache/activemq/activemq-all/5.15.3/activemq-all-5.15.3-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

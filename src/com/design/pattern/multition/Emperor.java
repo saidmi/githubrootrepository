@@ -8,6 +8,7 @@ import java.util.Random;
  * @date 2018Äê1ÔÂ29ÈÕ
  * @description
  */
+@SuppressWarnings("unchecked")
 public class Emperor {
 	/**
 	 * @param string
