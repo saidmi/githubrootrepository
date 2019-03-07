@@ -1,5 +1,10 @@
 package com.design.pattern.facade;
 
+
+
+
+
+
 /**
  * @author uisftech 子系统类
  */
